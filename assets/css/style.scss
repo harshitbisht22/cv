@@ -1,4 +1,22 @@
----
----
-
+// Import the theme's default styles
 @import "{{ site.theme }}";
+
+// Add custom styles below
+
+/* Change the font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Change the background color */
+body {
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+/* Customize header */
+header {
+    background-color: #333333; /* Dark header */
+    color: #ffffff; /* White text */
+}
