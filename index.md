@@ -33,6 +33,17 @@ Cloud & DevOps Engineer with 2.5+ years of experience in managing cloud infrastr
 - Managed Linux-Red Hat environments for testing and debugging.  
 - Migrated testing setups to AWS EC2, enhancing infrastructure efficiency.
 
+## Technical Skills
+- **Cloud Platforms**: AWS, GCP  
+- **Containerization**: Docker, Kubernetes (EKS, Minikube)  
+- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab, ArgoCD  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **Scripting Languages**: Bash, Python, YAML  
+- **Monitoring & Logging**: Grafana, Loki, Fluent-bit, Tempo, Prometheus, Uptime Kuma, OpenObserve, ELK Stack, Dozzle  
+- **Version Control**: Git, GitHub, GitLab  
+- **Other Tools**: Visual Studio Code, WordPress, Microsoft Office (Word, Excel, PowerPoint)
+
+  
 ## Projects
 
 ### Observability Project
@@ -48,15 +59,6 @@ Cloud & DevOps Engineer with 2.5+ years of experience in managing cloud infrastr
 - Integrated CI/CD workflows with GitHub Actions for efficient software delivery.  
 - Automated deployment processes to ensure reliability and consistency.
 
-## Technical Skills
-- **Cloud Platforms**: AWS, GCP  
-- **Containerization**: Docker, Kubernetes (EKS, Minikube)  
-- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab, ArgoCD  
-- **Infrastructure as Code (IaC)**: Terraform, Ansible  
-- **Scripting Languages**: Bash, Python, YAML  
-- **Monitoring & Logging**: Grafana, Loki, Fluent-bit, Tempo, Prometheus, Uptime Kuma, OpenObserve, ELK Stack, Dozzle  
-- **Version Control**: Git, GitHub, GitLab  
-- **Other Tools**: Visual Studio Code, WordPress, Microsoft Office (Word, Excel, PowerPoint)
 
 ## Education
 **Galgotias College of Engineering & Technology**  
