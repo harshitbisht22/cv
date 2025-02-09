@@ -86,3 +86,4 @@ Cloud & DevOps Engineer with 2.5+ years of experience in managing cloud infrastr
 I hereby declare that the above-mentioned information is correct to the best of my knowledge.
 
 ---
+[Download CV (HARSHIT_BISHT.pdf)](./HARSHIT_BISHT.pdf)
