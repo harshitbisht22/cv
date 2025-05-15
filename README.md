@@ -78,4 +78,4 @@ I hereby declare that the above-mentioned information is correct to the best of 
 
 ---
 
-[📄 **Download CV (Harshit-Bisht-devops.pdf)**](./Harshit-Bisht-devops.pdf)
+[📄 **Download CV (Harshit-Bisht-devops.pdf)**](./Harshit-Bisht.pdf)
