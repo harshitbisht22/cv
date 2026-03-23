@@ -1,63 +1,56 @@
 # Harshit Bisht  
 Lower Mall Road – Khatyari Almora, Uttarakhand  
-📞 8126352708 • ✉️ [Harshit.bisht.22@gmail.com](mailto:Harshit.bisht.22@gmail.com)
+📞 +91 8126352708 • ✉️ [Harshit.bisht.22@gmail.com](mailto:Harshit.bisht.22@gmail.com)
 
 ## Profile
-Cloud & DevOps Engineer with 3 years of experience in cloud infrastructure management, CI/CD automation, and observability solutions. Proficient in AWS, GCP, Kubernetes, Terraform, Jenkins, GitHub Actions, and GitLab. Skilled in automating infrastructure, implementing cloud security best practices, and enhancing system performance. Expertise in driving automation for scalable, secure, and reliable cloud-based solutions.
+Cloud & DevOps Engineer with expertise in AWS, GCP, Kubernetes, CI/CD automation, and DevSecOps. Skilled in automating infrastructure, implementing security best practices, and enhancing system observability to ensure high availability and scalability for mission-critical applications.
 
 ## Professional Experience
 
-### SecLogic INC  
-**Cloud Engineer** | September 2024 – Present  
-- Optimized and secured AWS and GCP environments to ensure high availability and scalability for mission-critical applications.  
-- Developed and managed Jenkins and GitLab CI/CD pipelines, improving deployment cycles and reducing errors.  
-- Automated cloud infrastructure provisioning using Terraform and Bash scripting for better scalability and security.  
-- Implemented observability solutions, including Prometheus, Grafana, ELK Stack, and Dozzle, to enhance system monitoring and logging.  
-- Strengthened cloud security with IAM controls, VPC configurations, and best practices for network security.  
-- Collaborated with cross-functional teams to ensure infrastructure performance and drive continuous improvement.
+### Seclogic Technologies Pvt. Ltd., Noida
+**Cloud & DevOps Engineer** | Sep 2024 – Present  
+- **DevSecOps:** Integrated SAST (SonarQube) and Trivy image scanning into Jenkins pipelines to automate vulnerability detection before deployment.
+- **Security Guardrails:** Engineered automated IaC scanning using Checkov and Gitleaks to intercept credential leaks and misconfigurations in Terraform templates.
+- **GitOps & Reliability:** Leveraged ArgoCD for Kubernetes deployments, implementing automated rollbacks to maintain 99.9% system availability.
+- **FinOps:** Enforced AWS Service Control Policies (SCPs) and budget alerts as organizational guardrails to prevent non-compliant resource spending.
+- **CI/CD Optimization:** Re-engineered Jenkins pipelines with parallelized stages, compressing release cycles from hours to minutes and reducing deployment errors by 70%.
+- **IaC Standardization:** Authored modular Terraform libraries for AWS and GCP, saving 20+ hours of manual provisioning per month through full automation.
+- **Enterprise Observability:** Deployed a centralized Prometheus, Grafana, and ELK stack for real-time monitoring and log analysis, significantly improving MTTR.
 
-### derePu  
-**DevOps Engineer** | May 2023 – June 2024  
-- Automated deployment pipelines using GitHub Actions, GitLab, and Jenkins, reducing manual interventions.  
-- Managed Kubernetes clusters to ensure high availability and fault tolerance.  
-- Designed custom Grafana dashboards for real-time system monitoring, integrating Prometheus and Loki.  
-- Implemented Uptime Kuma for proactive uptime monitoring and issue identification.  
-- Led the adoption of ArgoCD for GitOps-based automation of Kubernetes deployments.
+### DRP Labs Private Limited, Noida
+**DevOps Engineer** | May 2023 – Jun 2024  
+- **Kubernetes Orchestration:** Provisioned 50+ microservice clusters on EKS and GKE via Terraform, implementing auto-healing and horizontal pod autoscaling for high fault tolerance.
+- **Deployment Velocity:** Automated end-to-end delivery workflows using GitHub Actions and Jenkins, increasing software release frequency by 50%.
+- **GitOps Implementation:** Managed Kubernetes states with ArgoCD, shrinking manual rollback efforts by 80% through version-controlled synchronization.
+- **Observability:** Designed custom Grafana dashboards and tuned Prometheus alerting to reduce false-positive notifications by 30%.
 
-### Acuminous Software  
-**DevOps Test Engineer** | January 2019 – January 2020  
-- Executed manual and automated tests using IBM-RFT to improve testing efficiency.  
-- Managed Linux-Red Hat environments, optimizing them for testing and debugging.  
-- Migrated testing environments to AWS EC2, improving efficiency and scalability.
+### Acuminous Software Pvt. Ltd., Gurgaon
+**DevOps Test Engineer** | Jan 2019 – Jan 2020  
+- **Cloud Transformation:** Orchestrated the migration of on-premise test environments to AWS (EC2/S3) using Terraform, cutting setup time by 50%.
+- **Quality Engineering:** Integrated IBM Rational Functional Tester into CI/CD suites, expanding test coverage by 25% and strengthening software reliability.
 
 ## Technical Skills
-- **Cloud Platforms**: AWS, GCP  
-- **Containerization**: Docker, Kubernetes (EKS, Minikube)  
-- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab, ArgoCD  
-- **Infrastructure as Code**: Terraform, Ansible  
-- **Scripting Languages**: Bash, Python, YAML  
-- **Monitoring & Logging**: Prometheus, Grafana, Loki, Fluent-bit, Tempo, OpenObserve, ELK Stack, Dozzle, Uptime Kuma  
-- **Version Control**: Git, GitHub, GitLab  
-- **Other Tools**: Visual Studio Code, WordPress, Microsoft Office
-
-## Education
-**Galgotias College of Engineering & Technology**  
-*MCA – 2019 (73%)*
-
-**SSJ Campus Almora (Kumaun University)**  
-*BCA – 2017 (65%)*
+- **Cloud Platforms:** AWS (EC2, S3, VPC, CloudWatch, SCPs), GCP (Compute Engine, SCC)
+- **Containers & Orchestration:** Docker, Kubernetes (EKS, GKE), Helm, Container Security
+- **CI/CD & GitOps:** Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD
+- **IaC & Security:** Terraform, CloudFormation, Trivy, Checkov, Gitleaks
+- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, Loki, Uptime Kuma, Dozzle
+- **Scripting & Version Control:** Bash, Python, YAML | Git (GitHub, GitLab, Bitbucket)
 
 ## Projects
 
-### Observability Project
-- Implemented monitoring solutions using Prometheus, Grafana, and Loki for system observability.  
-- Configured OpenObserve for distributed tracing and log analytics.  
-- Deployed the ELK Stack for centralized log aggregation and visualization.  
-- Integrated Dozzle for real-time monitoring of Docker container logs.
+### IPL Score Predictor & MLOps Pipeline
+Built a real-time prediction system using FastAPI and Docker; deployed on Kubernetes with automated scaling to handle high live-match traffic.
 
-### GitOps Project
-- Implemented GitOps principles with ArgoCD to automate Kubernetes deployments.  
-- Integrated CI/CD workflows with GitHub Actions to optimize deployment pipelines.
+### Automated Deployment & Monitoring
+Implemented ArgoCD and GitHub Actions to automate updates, making deployments 60% faster. Configured Prometheus and Grafana for instant error detection.
+
+## Education
+**Galgotias College of Engineering & Technology**  
+*Master of Computer Applications (MCA) – 2019 (73%)*
+
+**SSJ Campus Almora (Kumaun University)**  
+*Bachelor of Computer Applications (BCA) – 2017 (65%)*
 
 ## Strengths
 - ✅ Willingness to learn new things  
@@ -78,4 +71,4 @@ I hereby declare that the above-mentioned information is correct to the best of 
 
 ---
 
-[📄 **Download CV (Harshit-Bisht-devops.pdf)**](./Harshit-Bisht.pdf)
+[📄 **Download CV (Harshit-Bisht.pdf)**](./Harshit-Bisht.pdf)
